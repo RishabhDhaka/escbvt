@@ -1,0 +1,4344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="39e37cad-6268-4a87-b64a-d065e799eaa2"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Alerts"
+	namespace="MyTest1">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<openwebsiterecorditem
+		args=""
+		browser="Chrome"
+		clearcache="False"
+		clearcookies="False"
+		enabled="True"
+		incognito="False"
+		instrument="True"
+		killexisting="False"
+		maximized="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<url>
+				http://3.127.177.145:8082/ui/#!/5?socketid=n7ATCugak36uJAblAFh9
+			</url>
+		</openwebsiterecorditem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="80;17"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="1fddc769-1c75-414c-822a-6f38ad658578"
+		sx="734"
+		sy="605"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="506e987f-bf90-4a88-a4f0-1c46d045cc9a"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, inputtag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="True"
+				index="1"
+				prefcap="inputtag"
+				rect="654,588,294,30"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						ng-valid md-input ng-touched ng-dirty ng-empty ng-valid-parse
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="id"
+					type="System.String">
+						input_0
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						md-input ng-dirty ng-empty ng-touched ng-valid ng-valid-parse
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						input
+					</attribute>
+					<attribute
+					name="autofocus"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="checked"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="disabled"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="height"
+					type="System.String">
+						0
+					</attribute>
+					<attribute
+					name="multiple"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="required"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="size"
+					type="System.String">
+						20
+					</attribute>
+					<attribute
+					name="step"
+					type="System.String">
+						any
+					</attribute>
+					<attribute
+					name="type"
+					type="System.String">
+						text
+					</attribute>
+					<attribute
+					name="width"
+					type="System.String">
+						0
+					</attribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="aria-invalid"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="aria-label"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-change"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-model"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-model-options"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-style"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="style"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+				</element>
+				<path>
+					/dom[@domain='3.127.177.145:8082']//input[@type='text']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="3b7ed321-566c-44cb-a9ec-e9030ade6dc1">
+				/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCAB6AVIDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDo6Wkp
+aAECKAOB+VG1f7o/KlooATav90flRtX+6PypaKAE2r/dH5UbV/uj8qWigBNq/wB0flRtX+6PypaK
+AE2r/dH5UbV/uj8qWigBAi88D8qNq/3R+VLRQAm1f7o/Kjav90flS0UAJtX+6Pyo2r/dH5UtFACb
+V/uj8qNq/wB0flS0UAJtX+6Pyo2r/dH5UtFACbV/uj8qNq/3R+VLRQAm1f7o/Kjav90flS0UAJtH
+YAfhS0UUAFFFFABRRRQAUUUUAFFFFABRRRQAHpTdvvTqKAG7felpaSgAooooAKWkpaACiiigAooo
+oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiig
+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
+			</helperscreenshot>
+		</mouseitem>
+		<keysequenceitem
+		KeySequence="{RShiftKey down}{{{RShiftKey up}{RShiftKey down}&quot;{RShiftKey up}ifs20{RShiftKey down}&quot;{RShiftKey up}{RShiftKey down}:{RShiftKey up}{RShiftKey down}&quot;{RShiftKey up}1{RShiftKey down}&quot;{RShiftKey up}{RShiftKey down}}{RShiftKey up}"
+		duration="100ms"
+		enabled="True"
+		optional="False"
+		presstime="20ms"
+		searchpropertyid="5cb86e9e-bbf0-4c1b-8452-bc529a696528">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="506e987f-bf90-4a88-a4f0-1c46d045cc9a"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, inputtag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="True"
+				index="1"
+				prefcap="inputtag"
+				rect="654,588,294,30"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						ng-valid md-input ng-touched ng-dirty ng-empty ng-valid-parse
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="id"
+					type="System.String">
+						input_0
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						md-input ng-dirty ng-empty ng-touched ng-valid ng-valid-parse
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						input
+					</attribute>
+					<attribute
+					name="autofocus"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="checked"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="disabled"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="height"
+					type="System.String">
+						0
+					</attribute>
+					<attribute
+					name="multiple"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="required"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="size"
+					type="System.String">
+						20
+					</attribute>
+					<attribute
+					name="step"
+					type="System.String">
+						any
+					</attribute>
+					<attribute
+					name="type"
+					type="System.String">
+						text
+					</attribute>
+					<attribute
+					name="width"
+					type="System.String">
+						0
+					</attribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="aria-invalid"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="aria-label"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-change"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-model"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-model-options"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-style"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="style"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+				</element>
+				<path>
+					/dom[@domain='3.127.177.145:8082']//input[@type='text']
+				</path>
+			</info>
+		</keysequenceitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="16;10"
+		movetime="300ms"
+		optional="True"
+		searchpropertyid="ccbb8bba-52d5-415c-a8d6-1d57a9842bd1"
+		sx="799"
+		sy="679"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="5f914945-fa6a-452a-a131-12c20aeadd51"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, spantag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="1"
+				prefcap="spantag"
+				rect="783,669,36,19"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						ng-binding ng-scope
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+						Send
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						ng-binding ng-scope
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						span
+					</attribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-bind-html"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+				</element>
+				<path>
+					/dom[@domain='3.127.177.145:8082']//span[@innertext='Send']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="f6d37956-d0e5-43aa-933c-26d861f690a9">
+				/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCABEAJwDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpKKyv
+7Tm/ux/kf8aP7Tm/ux/kf8admTzI1aKyv7Tm/ux/kf8AGj+05v7sf5H/ABosw5katFZX9pzf3Y/y
+P+NH9pzf3Y/yP+NFmHMjVorK/tOb+7H+R/xo/tOb+7H+R/xosw5katFZX9pzf3Y/yP8AjR/ac392
+P8j/AI0WYcyNWisr+05v7sf5H/Gj+05v7sf5H/GizDmRq0Vlf2nN/dj/ACP+NH9pzf3Y/wAj/jRZ
+hzI1aKyv7Tm/ux/kf8aP7Tm/ux/kf8aLMOZGrRWV/ac392P8j/jR/ac392P8j/jRZhzI1aKyv7Tm
+/ux/kf8AGj+05v7sf5H/ABosw5kUqKKKszCiiigAooooAKYZowSC3I9qfUdrAZ5pVVA5B79utRJt
+NJG9KEJKUpX07B58X979DR58X979DVgWLlygiXIGe3Sj7C/zfuVO0ZOMGj3vIf7js/w/yK/nxf3v
+0NHnxf3v0NTLa7lVhEpDHaOnWnPYvGpZoVwOuMHFHv8AkH7js/w/yIUkV87TnFOqG34klA9f8amp
+xbauyK0FCbjHb/gBRRRVGQUUUUAFFFFABRRRQAUUUUAFFFFABTtM8zz7gRxiRTwy56jmm1WSVY5Z
+NwPJ7VnNpNXOqhFyhNR30/M244VjllVFzujyUJ6e2aqtNcWzymOOOJE8ssjZJO5iODn2qgbuMDJy
+BVmwC3q3Kqu9SYdwPcByT+mafMnsyHSnH4lY0SECQNH91pcj2puxobieWT5YyCBk/eqlcaUsMMks
+atDsSaQlG4JDZQEemM1V+1J6NQ5JbhGlOfwq4Qf62X6/41NUFsdzyEdzn+dT0U/hHilaq16fkgoo
+oqznCiiigAooooAKK1f7Nh/vSfmP8KP7Nh/vSfmP8KV0VysyqK1f7Nh/vSfmP8KP7Nh/vSfmP8KL
+oOVmVRWr/ZsP96T8x/hR/ZsP96T8x/hRdBysyqK1f7Nh/vSfmP8ACj+zYf70n5j/AAoug5WZEill
+wG2kEEHHQg5Fa2lywziSVY1juCQswHcjofxzS/2bD/ek/Mf4U3+y4hIskc00ci8bkYZI9DxzSbTK
+imiXVZFj0y4z/EhUD1JGBWPWnJpcczh5555ipyu9hgfgBinf2bD/AHpPzH+FCdgkmzKorV/s2H+9
+J+Y/wo/s2H+9J+Y/wp3RPKzKorV/s2H+9J+Y/wAKP7Nh/vSfmP8ACi6DlZlUVq/2bD/ek/Mf4Uf2
+bD/ek/Mf4UXQcrMqitX+zYf70n5j/Cj+zYf70n5j/Ci6DlZcoooqDQKKKKACiiigAooooAKKKKAC
+iiigAooooAKKKKACiiigAooooA//2Q==
+			</helperscreenshot>
+		</mouseitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="16;10"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="ccbb8bba-52d5-415c-a8d6-1d57a9842bd1"
+		sx="799"
+		sy="679"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="5f914945-fa6a-452a-a131-12c20aeadd51"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, spantag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="1"
+				prefcap="spantag"
+				rect="783,669,36,19"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						ng-binding ng-scope
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+						Send
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						ng-binding ng-scope
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						span
+					</attribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-bind-html"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+				</element>
+				<path>
+					/dom[@domain='3.127.177.145:8082']//span[@innertext='Send']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="f6d37956-d0e5-43aa-933c-26d861f690a9">
+				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
+iiigAooooAKKKKACiiigAooooA//2Q==
+			</helperscreenshot>
+		</mouseitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="False"
+		loc="21;21"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="ddf40a55-8565-4b56-8df9-baa4c95bbb63"
+		sx="413"
+		sy="881"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="431fd93b-d133-4e16-a485-74abd4e8ec0a"
+			sourcename="Recorder">
+				<element
+				capabilities="accessible"
+				dontcache="False"
+				enabled="True"
+				flavor="msaa"
+				hasfocus="False"
+				index="9"
+				prefcap="button"
+				rect="392,860,49,40"
+				role="button"
+				snapElem=""
+				valid="False"
+				visible="True">
+					<attribute
+					name="pressed"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						RanorexStudio - 2 running windows
+					</attribute>
+					<attribute
+					name="accessibledefaultaction"
+					type="System.String">
+						Open
+					</attribute>
+					<attribute
+					name="accessiblename"
+					type="System.String">
+						RanorexStudio - 2 running windows
+					</attribute>
+					<attribute
+					name="accessiblerole"
+					type="System.Windows.Forms.AccessibleRole, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						ButtonMenu
+					</attribute>
+					<attribute
+					name="accessiblestate"
+					type="System.Windows.Forms.AccessibleStates, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						HotTracked, Focusable, HasPopup
+					</attribute>
+				</element>
+				<path>
+					/menubar[@processname='explorer']//toolbar[@accessiblename='Running applications']/button[10]
+				</path>
+			</info>
+			<helperscreenshot
+			guid="94d6150f-4688-4977-89fe-51f1e1b30825">
+				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
+			</helperscreenshot>
+		</mouseitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="False"
+		loc="159;49"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="7cb8db89-1b47-4cc2-b2e2-1b32590a0b8b"
+		sx="358"
+		sy="727"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="50f5ba24-4095-4722-8bd0-6d3c338838fc"
+			sourcename="Recorder">
+				<element
+				capabilities="accessible"
+				dontcache="False"
+				enabled="True"
+				flavor="msaa"
+				hasfocus="False"
+				index="0"
+				prefcap="listitem"
+				rect="199,678,216,182"
+				role="listitem"
+				snapElem=""
+				valid="False"
+				visible="True">
+					<attribute
+					name="index"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="selected"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						MyTest1 - Ranorex Studio - (32bit) (Administrator)
+					</attribute>
+					<attribute
+					name="accessibledefaultaction"
+					type="System.String">
+						Switch
+					</attribute>
+					<attribute
+					name="accessiblename"
+					type="System.String">
+						MyTest1 - Ranorex Studio - (32bit) (Administrator)
+					</attribute>
+					<attribute
+					name="accessiblerole"
+					type="System.Windows.Forms.AccessibleRole, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						ListItem
+					</attribute>
+					<attribute
+					name="accessiblestate"
+					type="System.Windows.Forms.AccessibleStates, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						HotTracked, Focusable
+					</attribute>
+				</element>
+				<path>
+					/form[@title='']/?/?/listitem[@accessiblename&gt;'MyTest1 - Ranorex Studio -']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="6799b135-2ed7-4605-8405-038cc44ae815">
+				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
+			</helperscreenshot>
+		</mouseitem>
+		<validationitem
+		action="AttributeEqual"
+		enabled="True"
+		optional="True"
+		searchpropertyid="d61cd88d-4caa-450a-8a88-3a2fafbc82fa">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="91cf4bfe-e0c0-4332-9e3b-6fe805ac45c9"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="16,274,343,44"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						Your Intelliflo Pump has reported a Priming Failure Alarm
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						491374736
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='Your Intelliflo Pump has reported a Priming Failure Alarm']/container[@accessibilitylabel='Your Intelliflo Pump has reported a Priming Failure Alarm']/container[@accessibilitylabel='Your Intelliflo Pump has reported a Priming Failure Alarm']/container[@accessibilitylabel='Your Intelliflo Pump has reported a Priming Failure Alarm']
+				</path>
+			</info>
+			<matchname>
+				AccessibilityLabel
+			</matchname>
+			<matchvalue>
+				Your Intelliflo Pump has reported a Priming Failure Alarm
+			</matchvalue>
+		</validationitem>
+		<touchrecorditem
+		duration="300ms"
+		elementlocation="Center"
+		enabled="True"
+		fingerid="0"
+		isremote="False"
+		longtouchduration="1000ms"
+		moveduration="100ms"
+		optional="False"
+		screenshotname=""
+		searchpropertyid="aba33059-5002-441d-9383-93aa679c9147"
+		sx="0"
+		sy="0"
+		touchduration="100ms"
+		touchtype="Touch"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="91cf4bfe-e0c0-4332-9e3b-6fe805ac45c9"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="16,274,343,44"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						Your Intelliflo Pump has reported a Priming Failure Alarm
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						491374736
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='Your Intelliflo Pump has reported a Priming Failure Alarm']/container[@accessibilitylabel='Your Intelliflo Pump has reported a Priming Failure Alarm']/container[@accessibilitylabel='Your Intelliflo Pump has reported a Priming Failure Alarm']/container[@accessibilitylabel='Your Intelliflo Pump has reported a Priming Failure Alarm']
+				</path>
+			</info>
+		</touchrecorditem>
+		<validationitem
+		action="AttributeEqual"
+		enabled="True"
+		optional="True"
+		searchpropertyid="55ca7c41-3cdd-4eb8-b935-0afde3a03ac8">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="bfc55148-98ad-4a96-ac0a-38198ab63aa8"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="32,186,305,39"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						alertImage alertDesc
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						81020976
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='alertImage alertDesc']/container[@accessibilitylabel='alertImage alertDesc']/container[@accessibilitylabel='alertImage alertDesc']
+				</path>
+			</info>
+			<matchname>
+				AccessibilityLabel
+			</matchname>
+			<matchvalue>
+				alertImage alertDesc
+			</matchvalue>
+		</validationitem>
+		<validationitem
+		action="AttributeEqual"
+		enabled="True"
+		optional="True"
+		searchpropertyid="a93ba9d6-16a9-4f1c-917b-251376845b58">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="bac4c1ab-23ce-43e6-a122-faf9d2f2d1c0"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="251,152,82,15"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilityid"
+					type="System.String">
+						headerContactPro
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						headerContactPro
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTTextView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						82309408
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilityid='headerContactPro']
+				</path>
+			</info>
+			<matchname>
+				AccessibilityLabel
+			</matchname>
+			<matchvalue>
+				headerContactPro
+			</matchvalue>
+		</validationitem>
+		<validationitem
+		action="AttributeEqual"
+		enabled="True"
+		optional="True"
+		searchpropertyid="c5f4419f-9171-4987-8a3b-7d197ad9f4f4">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="41a5f5d7-5581-41d2-908d-79b530ed9066"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="32,122,310,17"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						alertDetected
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						120130032
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='alertDetected']/container[@accessibilitylabel='alertDetected']
+				</path>
+			</info>
+			<matchname>
+				AccessibilityLabel
+			</matchname>
+			<matchvalue>
+				alertDetected
+			</matchvalue>
+		</validationitem>
+		<touchrecorditem
+		duration="300ms"
+		elementlocation="Center"
+		enabled="True"
+		fingerid="0"
+		isremote="False"
+		longtouchduration="1000ms"
+		moveduration="100ms"
+		optional="False"
+		screenshotname=""
+		searchpropertyid="71276e30-2e36-462b-8670-ef13315101c6"
+		sx="0"
+		sy="0"
+		touchduration="100ms"
+		touchtype="Touch"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="bfc55148-98ad-4a96-ac0a-38198ab63aa8"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="32,186,305,39"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						alertImage alertDesc
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						81020976
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='alertImage alertDesc']/container[@accessibilitylabel='alertImage alertDesc']/container[@accessibilitylabel='alertImage alertDesc']
+				</path>
+			</info>
+		</touchrecorditem>
+		<validationitem
+		action="AttributeEqual"
+		enabled="True"
+		optional="True"
+		searchpropertyid="cb643c40-5f05-4107-aff5-f87eaf910d31">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="5b951dbc-e2ac-4cbf-a87e-f2e6e098c1b0"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="23,89,329,36"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						Priming Failure
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTTextView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						117962224
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='Priming Failure']
+				</path>
+			</info>
+			<matchname>
+				AccessibilityLabel
+			</matchname>
+			<matchvalue>
+				Priming Failure
+			</matchvalue>
+		</validationitem>
+		<validationitem
+		action="AttributeEqual"
+		enabled="True"
+		optional="True"
+		searchpropertyid="ccacd2b4-7748-4b99-a965-c31c211a1180">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="6737b9c9-84b5-4f6f-a095-26bb933727b8"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="23,139,329,80"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						The Intelliflo Pump pump has reported a Priming Failure.This could be due to a low water level in the pool, no water in the pump basket, debris stopping flow in the pump basket, a dirty filter, a closed valve or something preventing flow through the system or the pump's inability to prime.
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTTextView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						118152672
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='The Intelliflo Pump pump has reported a Priming Failure.This could be due to a low water level in the pool, no water in the pump basket, debris stopping flow in the pump basket, a dirty filter, a closed valve or something preventing flow through the system or the pump''s inability to prime.']/container[@accessibilitylabel='The Intelliflo Pump pump has reported a Priming Failure.This could be due to a low water level in the pool, no water in the pump basket, debris stopping flow in the pump basket, a dirty filter, a closed valve or something preventing flow through the system or the pump''s inability to prime.']
+				</path>
+			</info>
+			<matchname>
+				AccessibilityLabel
+			</matchname>
+			<matchvalue>
+				The Intelliflo Pump pump has reported a Priming Failure.This could be due to a low water level in the pool, no water in the pump basket, debris stopping flow in the pump basket, a dirty filter, a closed valve or something preventing flow through the system or the pump's inability to prime.
+			</matchvalue>
+		</validationitem>
+		<explicitdelayitem
+		duration="3000ms"
+		enabled="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</explicitdelayitem>
+		<loggingrecorditem
+		action="Screenshot"
+		category="User"
+		enabled="True"
+		message="PrimingFailureDiscription"
+		optional="True"
+		reportlevel="Info;20"
+		searchpropertyid="777cfa10-b80f-499b-a133-f5565825d074">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="b033edc8-017e-44a9-9495-edcc320d3b43"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="0,0,375,618"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						Priming Failure The Intelliflo Pump pump has reported a Priming Failure.This could be due to a low water level in the pool, no water in the pump basket, debris stopping flow in the pump basket, a dirty filter, a closed valve or something preventing flow through the system or the pump's inability to prime. If the problem persists, visit  Pentair Support. Vertical scroll bar, 1 page Horizontal scroll bar, 1 page
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						490943664
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='Priming Failure The Intelliflo Pump pump has reported a Priming Failure.This could be due to a low water level in the pool, no water in the pump basket, debris stopping flow in the pump basket, a dirty filter, a closed valve or something preventing flow through the system or the pump''s inability to prime. If the problem persists, visit  Pentair Support. Vertical scroll bar, 1 page Horizontal scroll bar, 1 page']/container[@accessibilitylabel='Priming Failure The Intelliflo Pump pump has reported a Priming Failure.This could be due to a low water level in the pool, no water in the pump basket, debris stopping flow in the pump basket, a dirty filter, a closed valve or something preventing flow through the system or the pump''s inability to prime. If the problem persists, visit  Pentair Support. Vertical scroll bar, 1 page Horizontal scroll bar, 1 page']/container[@accessibilitylabel='Priming Failure The Intelliflo Pump pump has reported a Priming Failure.This could be due to a low water level in the pool, no water in the pump basket, debris stopping flow in the pump basket, a dirty filter, a closed valve or something preventing flow through the system or the pump''s inability to prime. If the problem persists, visit  Pentair Support. Vertical scroll bar, 1 page Horizontal scroll bar, 1 page']
+				</path>
+			</info>
+		</loggingrecorditem>
+		<touchrecorditem
+		duration="300ms"
+		elementlocation="Center"
+		enabled="True"
+		fingerid="0"
+		isremote="False"
+		longtouchduration="1000ms"
+		moveduration="100ms"
+		optional="False"
+		screenshotname=""
+		searchpropertyid="3561fd34-8acd-48db-b379-a329354c91ca"
+		sx="0"
+		sy="0"
+		touchduration="100ms"
+		touchtype="Touch"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="d460f5ef-5192-4061-9d9b-be05335ae864"
+			sourcename="RepositoryEditor">
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='assets/src/Common_Feature/Images/alertTab@2x.png']
+				</path>
+			</info>
+		</touchrecorditem>
+		<explicitdelayitem
+		duration="5000ms"
+		enabled="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</explicitdelayitem>
+		<loggingrecorditem
+		action="Screenshot"
+		category="User"
+		enabled="True"
+		message="AlertDashboardPrimingAlert"
+		optional="True"
+		reportlevel="Info;20"
+		searchpropertyid="0fee5ad1-519d-48ee-9052-6e8522a34612">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="459eb22f-038d-4f23-9217-0d0d62463f03"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="0,0,375,618"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						Add a Device Problem Detected 1 Alert Your Intelliflo Pump has reported a Priming Failure Alarm Vertical scroll bar, 1 page Horizontal scroll bar, 1 page IntelliSyncqaalert UPDATE REQUIRED Water Sensor1 Water Temp:  85 ℉ SUPERFLO MAX VS OFF AIR SENSOR Air Temp:  67 ℉ INTELLIFLO VS PUMP OFF Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page IntelliSyncqaalert alertDetected alertTitle headerContactPro alertImage alertDesc Mode Auto Equipment 1 2 3 4 5 6 HEATER INTELLIFLO VS PUMP Water Sensor1 INTELLICHLOR AIR SENSOR SUPERFLO MAX VS Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page Priming Failure The Intelliflo Pump pump has reported a Priming Failure.This could be due to a low water level in the pool, no water in the pump basket, debris stopping flow in the pump basket, a dirty filter, a closed valve or something preventing flow through the system or the pump's inability to prime. If the problem persists, visit  Pentair Support. Vertical scroll bar, 1 page Horizontal scroll bar, 1 page My Devices Pool IntelliSyncqaalert 1 2 3 4 5 6 HEATER INTELLIFLO VS PUMP Water Sensor1 INTELLICHLOR AIR SENSOR SUPERFLO MAX VS Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page My Devices
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						118317312
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[1]
+				</path>
+			</info>
+		</loggingrecorditem>
+		<touchrecorditem
+		duration="300ms"
+		elementlocation="Center"
+		enabled="False"
+		fingerid="0"
+		isremote="False"
+		longtouchduration="1000ms"
+		moveduration="100ms"
+		optional="True"
+		screenshotname=""
+		searchpropertyid="9bc5a062-57d2-45c7-b1a1-ff6984381a89"
+		sx="0"
+		sy="0"
+		touchduration="100ms"
+		touchtype="Touch"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="fd005e14-8666-4399-b376-e62d9109d6a1"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="101,150,229,119"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						DEVICE_ALARM Medium Your Intelliflo Pump has reported a Priming Failure Alarm Jan 15,2021
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						86054688
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilityid='alertItem']/container[@accessibilitylabel='DEVICE_ALARM Medium Your Intelliflo Pump has reported a Priming Failure Alarm Jan 15,2021']/container[@accessibilitylabel='DEVICE_ALARM Medium Your Intelliflo Pump has reported a Priming Failure Alarm Jan 15,2021']
+				</path>
+			</info>
+		</touchrecorditem>
+		<touchrecorditem
+		duration="300ms"
+		elementlocation="Center"
+		enabled="True"
+		fingerid="0"
+		isremote="False"
+		longtouchduration="1000ms"
+		moveduration="100ms"
+		optional="True"
+		screenshotname=""
+		searchpropertyid="f818cc6c-59ee-4d6b-9232-b5fece667b0e"
+		sx="0"
+		sy="0"
+		touchduration="100ms"
+		touchtype="Touch"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="53897f87-c4ec-4ddb-b25e-34c53fd1f1ab"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="1"
+				prefcap="container"
+				rect="101,191,230,36"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						Your Intelliflo Pump has reported a Priming Failure Alarm
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTTextView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						471061040
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilityid='alertItem']/container[@accessibilitylabel='DEVICE_ALARM Medium Your Intelliflo Pump has reported a Priming Failure Alarm Jan 21,2021']/container[@accessibilitylabel='DEVICE_ALARM Medium Your Intelliflo Pump has reported a Priming Failure Alarm Jan 21,2021']/container[@accessibilitylabel='Your Intelliflo Pump has reported a Priming Failure Alarm']
+				</path>
+			</info>
+		</touchrecorditem>
+		<validationitem
+		action="AttributeEqual"
+		enabled="True"
+		optional="True"
+		searchpropertyid="5d0e4810-f4b0-47c1-b084-8d3e8e6bc7f5">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="fb055a7b-8e3d-4171-86f2-d524f9092ff2"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="1"
+				prefcap="container"
+				rect="105,49,9,9"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilityid"
+					type="System.String">
+						greenDot
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						484974256
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilityid='greenDot']
+				</path>
+			</info>
+			<matchname>
+				AccessibilityId
+			</matchname>
+			<matchvalue>
+				greenDot
+			</matchvalue>
+		</validationitem>
+		<explicitdelayitem
+		duration="3000ms"
+		enabled="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</explicitdelayitem>
+		<loggingrecorditem
+		action="Screenshot"
+		category="User"
+		enabled="True"
+		message="NavigationToDeviceDashboardFromAlertScreen"
+		optional="True"
+		reportlevel="Info;20"
+		searchpropertyid="b7ce75c7-3d89-4ef1-885d-7d2d098831c7">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="ddc4a5b4-f931-485e-98e6-a1f79ae35681"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="0,0,375,618"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						IntelliSyncqaalert alertDetected alertTitle headerContactPro alertImage alertDesc Mode Auto Equipment 1 2 3 4 5 6 HEATER INTELLIFLO VS PUMP Water Sensor1 INTELLICHLOR AIR SENSOR SUPERFLO MAX VS Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						484987888
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='IntelliSyncqaalert alertDetected alertTitle headerContactPro alertImage alertDesc Mode Auto Equipment 1 2 3 4 5 6 HEATER INTELLIFLO VS PUMP Water Sensor1 INTELLICHLOR AIR SENSOR SUPERFLO MAX VS Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page']/container[@accessibilitylabel='IntelliSyncqaalert alertDetected alertTitle headerContactPro alertImage alertDesc Mode Auto Equipment 1 2 3 4 5 6 HEATER INTELLIFLO VS PUMP Water Sensor1 INTELLICHLOR AIR SENSOR SUPERFLO MAX VS Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page']/container[@accessibilitylabel='IntelliSyncqaalert alertDetected alertTitle headerContactPro alertImage alertDesc Mode Auto Equipment 1 2 3 4 5 6 HEATER INTELLIFLO VS PUMP Water Sensor1 INTELLICHLOR AIR SENSOR SUPERFLO MAX VS Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page']
+				</path>
+			</info>
+		</loggingrecorditem>
+		<touchrecorditem
+		duration="300ms"
+		elementlocation="Center"
+		enabled="True"
+		fingerid="0"
+		isremote="False"
+		longtouchduration="1000ms"
+		moveduration="100ms"
+		optional="False"
+		screenshotname=""
+		searchpropertyid="3cc4c28c-3b01-4e2c-8c53-67bf860a169b"
+		sx="0"
+		sy="0"
+		touchduration="100ms"
+		touchtype="Touch"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="4cc844ae-fae8-4dbf-8bd7-87a25f3038ad"
+			sourcename="RepositoryEditor">
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='assets/src/Common_Feature/Images/homeOutline@2x.png']
+				</path>
+			</info>
+		</touchrecorditem>
+		<explicitdelayitem
+		duration="5000ms"
+		enabled="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</explicitdelayitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="77;15"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="79664b45-666f-4272-8ab6-de187fc96749"
+		sx="731"
+		sy="603"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="506e987f-bf90-4a88-a4f0-1c46d045cc9a"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, inputtag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="1"
+				prefcap="inputtag"
+				rect="654,588,294,30"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						ng-pristine ng-untouched ng-valid md-input ng-not-empty
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="id"
+					type="System.String">
+						input_4
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						md-input ng-not-empty ng-pristine ng-untouched ng-valid
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						input
+					</attribute>
+					<attribute
+					name="tagvalue"
+					type="System.String">
+						{&quot;ifs20&quot;:&quot;1&quot;}
+					</attribute>
+					<attribute
+					name="autofocus"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="checked"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="disabled"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="height"
+					type="System.String">
+						0
+					</attribute>
+					<attribute
+					name="multiple"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="required"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="size"
+					type="System.String">
+						20
+					</attribute>
+					<attribute
+					name="step"
+					type="System.String">
+						any
+					</attribute>
+					<attribute
+					name="type"
+					type="System.String">
+						text
+					</attribute>
+					<attribute
+					name="value"
+					type="System.String">
+						{&quot;ifs20&quot;:&quot;1&quot;}
+					</attribute>
+					<attribute
+					name="width"
+					type="System.String">
+						0
+					</attribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="aria-invalid"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="aria-label"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-change"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-model"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-model-options"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-style"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="style"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+				</element>
+				<path>
+					/dom[@domain='3.127.177.145:8082']//input[@type='text']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="2a60e620-c534-48a5-9d79-b4db74a62491">
+				/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCAB6AVIDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDo6Wkp
+aAECKAOB+VG1f7o/KlooATav90flRtX+6PypaKAE2r/dH5UbV/uj8qWigBNq/wB0flRtX+6PypaK
+AE2r/dH5UbV/uj8qWigBAi88D8qNq/3R+VLRQAm1f7o/Kjav90flS0UAJtX+6Pyo2r/dH5UtFACb
+V/uj8qNq/wB0flS0UAJtX+6Pyo2r/dH5UtFACbV/uj8qNq/3R+VLRQAm1f7o/Kjav90flS0UAJtH
+YAfhS0UUAFFFFABRRRQAUUUUAFFFFABRRRQAHpTdvvTqKAG7felpaSgAooooAKWkpaACiiigAooo
+oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiig
+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
+P+FWa5euorOpBRtY3o1HO9wooorI3P/Z
+			</helperscreenshot>
+		</mouseitem>
+		<keysequenceitem
+		KeySequence=""
+		duration="100ms"
+		enabled="False"
+		optional="False"
+		presstime="20ms"
+		searchpropertyid="1ed48d04-49e5-421f-b578-aa8dc9fd0d3a">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="506e987f-bf90-4a88-a4f0-1c46d045cc9a"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, inputtag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="1"
+				prefcap="inputtag"
+				rect="654,588,294,30"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						ng-pristine ng-untouched ng-valid md-input ng-not-empty
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="id"
+					type="System.String">
+						input_4
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						md-input ng-not-empty ng-pristine ng-untouched ng-valid
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						input
+					</attribute>
+					<attribute
+					name="tagvalue"
+					type="System.String">
+						{&quot;ifs20&quot;:&quot;1&quot;}
+					</attribute>
+					<attribute
+					name="autofocus"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="checked"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="disabled"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="height"
+					type="System.String">
+						0
+					</attribute>
+					<attribute
+					name="multiple"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="required"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="size"
+					type="System.String">
+						20
+					</attribute>
+					<attribute
+					name="step"
+					type="System.String">
+						any
+					</attribute>
+					<attribute
+					name="type"
+					type="System.String">
+						text
+					</attribute>
+					<attribute
+					name="value"
+					type="System.String">
+						{&quot;ifs20&quot;:&quot;1&quot;}
+					</attribute>
+					<attribute
+					name="width"
+					type="System.String">
+						0
+					</attribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="aria-invalid"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="aria-label"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-change"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-model"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-model-options"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-style"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="style"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+				</element>
+				<path>
+					/dom[@domain='3.127.177.145:8082']//input[@type='text']
+				</path>
+			</info>
+		</keysequenceitem>
+		<keysequenceitem
+		KeySequence="{RShiftKey down}&quot;{RShiftKey up}"
+		duration="20ms"
+		enabled="False"
+		optional="False"
+		presstime="20ms"
+		repoItemActivation="EnsureVisible"
+		searchpropertyid="69a1492b-f4b2-4720-85a6-9b18d6a5329f">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="a622d54b-04df-4186-b4c4-e2e005f583d7"
+			sourcename="Recorder">
+				<element
+				capabilities="webdocument"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="5"
+				prefcap="webdocument"
+				rect="0,103,1600,757"
+				role="container"
+				snapElem=""
+				uidroot="True"
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+						Node-RED Dashboard
+					</attribute>
+					<attribute
+					name="browsername"
+					type="System.String">
+						Chrome
+					</attribute>
+					<attribute
+					name="browserversion"
+					type="System.String">
+						87.0.4280.141
+					</attribute>
+					<attribute
+					name="domain"
+					type="System.String">
+						3.127.177.145:8082
+					</attribute>
+					<attribute
+					name="fullscreen"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="page"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="pageurl"
+					type="System.String">
+						http://3.127.177.145:8082/ui/#!/5?socketid=n7ATCugak36uJAblAFh9
+					</attribute>
+					<attribute
+					name="path"
+					type="System.String">
+						/ui/
+					</attribute>
+					<attribute
+					name="state"
+					type="System.String">
+						complete
+					</attribute>
+					<dynamicaction
+					description="Enables the Chrome accessible renderer mode."
+					displayName="EnableAccessibleRenderer">
+					</dynamicaction>
+				</element>
+				<path>
+					/dom[@domain='3.127.177.145:8082']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="e806b436-c0be-49e1-8888-34efca3fa710">
+				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
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigApDS0hoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigA
+ooooAKKKKACiiigApRSUooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACkNLSGgAooooAKKKKACiiigAoooo
+AKKKKACiiigAooooAKKKKACiiigAooooAKKKKAClFJSigCO4aRYiYQC/HUZx74yM1WSaTzTK0yGI
+Qhj+7I555xnj6VbkjjlQpKiup6qwyKTyYiVzEnyjavyjgegoAo+fdSLsJWORZVBJTqD7Bj/OrAuG
+wowuTKyY+mf8Ke0NrDAwaOGOL+IFQF/GgrarI0hWEOBlmwM4HqaAEtZJJFYTEeYp5UIV2/qc/UVC
+J7p9u0wrvViMqTjB+vOfwx71YjFvARDEIoy3zBFwM++KWRoIEDymONRwCxAAzQBVN3cvKghh3Dar
+P07+5YY/I0/zrnMq4XzByibD0z1znDfTinzLZhI5phBtXGx3xgemCaXybQBl8uACXlhtHz+59etA
+FeS8lVUaMrIAMy4j245x3YY7+tSG4m3hsx+WZfLCkHd165z+mKleG1BTfFCCowmVHA9qja2BvBK5
+hGTkYjw5x6tnn8qAEtLi4nkJeHbCwyrccf8Ajxz+Qq3UUcduJmeNIhIfvMoGT9akDoW2hlLDtnn/
+ADyKAFooooAKKZJPDE6pJKiM33QzAE/SnB1ZmVWBK8MAelAC0UUUAFFFFABRRRQAUUUUAFFFFABR
+RRQAUUUUAFFFFABRRRQAUUUUAFFFFABSGlpDQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAF
+FFFABRRRQAUUUUAFFFFABSikpRQAUUUUAV70ApEG+75qZ/Pj9cUXKLDBPPGNsgjYhuvOM/0FSzRC
+aPYSV5BBXqCDkU5lDKVYBgRgg96A6lALN9ouXjmbeUTaG24yc+35fWpYp8RgHzJZtxUK4UMDjPJH
+GMd/61ZaKNwwaNWDDDAjqPeozaWzRrG1vEUX7qlBgfQUAiCKLybm3RyD8jkem4kE4/M/hTrOGN7d
+GIBAZthB427sj+Qqb7LbmHyvIi8sHOzYMflUoGBgUAQLEkq5kcTEMwDDjHPTj0wB+FMkiQahDIF+
+dgwJPpjpVlVVBhVCjOeB3oKgkEgEjocdKAGCOKImThc9ST6nP8zTJ1WCKW4jTMgVm69Tgf4CpnRX
+GGGRkH8qWgDPWe5iikkcSbNmQ0uzAOf9k9O/Pp1qSVbiOMCO4klJIJwED45+7wB6dferEVvBCWMU
+Mce7rtUDNN+x2vl+X9mh2Zzt8sYz64oAgdhc2/kxfvGkjAZ2GMKe5Hr14/lUkY26jIF5/dJuz25b
+H170+S0tpWBlt4nIGAWQHinRwJHK8i5ywC47ADoB+ZoAkooooAKKKKACiiigAooooAKKKKACiiig
+AooooAKKKKACiiigAooooAKKKKACkNLSGgAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+ACiiigAooooAKKKKAClFJSigArO/sn/qIX//AH+/+tWjRQBnf2T/ANRC/wD+/wB/9aj+yf8AqIX/
+AP3+/wDrVo0UAZ39k/8AUQv/APv9/wDWo/sn/qIX/wD3+/8ArVo0UAZ39k/9RC//AO/3/wBaj+yf
++ohf/wDf7/61aNFAGd/ZP/UQv/8Av9/9aj+yf+ohf/8Af7/61aNFAGd/ZP8A1EL/AP7/AH/1qP7J
+/wCohf8A/f7/AOtWjRQBnf2T/wBRC/8A+/3/ANaj+yf+ohf/APf7/wCtWjRQBnf2T/1EL/8A7/f/
+AFqP7J/6iF//AN/v/rVo0UAZ39k/9RC//wC/3/1qP7J/6iF//wB/v/rVo0UAZ39k/wDUQv8A/v8A
+f/Wo/sn/AKiF/wD9/v8A61aNFAGd/ZP/AFEL/wD7/f8A1qP7J/6iF/8A9/v/AK1aNFAGd/ZP/UQv
+/wDv9/8AWo/sn/qIX/8A3+/+tWjRQBnf2T/1EL//AL/f/Wo/sn/qIX//AH+/+tWjRQBnf2T/ANRC
+/wD+/wB/9aj+yf8AqIX/AP3+/wDrVo0UAZ39k/8AUQv/APv9/wDWo/sn/qIX/wD3+/8ArVo0UAZ3
+9k/9RC//AO/3/wBaj+yf+ohf/wDf7/61aNFAGd/ZP/UQv/8Av9/9aj+yf+ohf/8Af7/61aNFAGd/
+ZP8A1EL/AP7/AH/1qP7J/wCohf8A/f7/AOtWjRQBnf2T/wBRC/8A+/3/ANapbfTvImWT7ZeSbc/L
+JLlTx3GKuUUAFIaWkNABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUU
+UAFKKSlFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRR
+RQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUhpaQ0AFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFF
+FFABRRRQAUUUUAFFFFABRRRQAUopKzNbJxCM8Hd/SqjHmdiJy5I3NSiuWorX2Pmc/wBZ8jqaK5ai
+j2PmH1nyOporlqKPY+YfWfI6miuWoo9j5h9Z8jqaK5aij2PmH1nyOporlqKPY+YfWfI6miuWoo9j
+5h9Z8jqaK5aij2PmH1nyOporlqKPY+YfWfI6miuWoo9j5h9Z8jqaK5aij2PmH1nyOporlqKPY+Yf
+WfI6miuWoo9j5h9Z8jqaK5aij2PmH1nyOporlqKPY+YfWfI6miuWoo9j5h9Z8jqaK5aij2PmH1ny
+OporlqKPY+YfWfI6miuWoo9j5h9Z8jqaQ1y9b+mkmwiyc9f5mpnT5Ve5pTrc7tYs0UUVkbhRRRQA
+UUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVl63/wAsf+Bf0rUrL1v/AJY/8C/p
+WlP4kZV/4bMuiiius84KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiraW8K2iTSCVt2c7MY
+X60m7FKLZUoq4ltH9kjlKTuzZzsxgYP0ons1S1jmjYklQXB7Z70uZXsP2btcp0VeNpAklxvMhWLb
+jBGTn8KhuIY1hSaFmKMcYbqDQpJg4NFeiiiqICiiigAooooAKKKKACiiigAooooAKKKKACiiigAr
+e0z/AI8Ivx/mawa3tM/48Ivx/maxrfCdGG+MtUUUVzHcFFFFABRRRQAUUUUAFFFFABRRRQAUUUUA
+FFFFABRRRQAUUUUAFFFFABWXrf8Ayx/4F/StSsvW/wDlj/wL+laU/iRlX/hsy6KKK6zzgooooAKK
+KKACiiigAooooAKKKKACiiigAooooAKuWtxDbgNmYtj5l42mqdFJq6sVGXK7ouLcQtbRxu0yFM/c
+xg5P1o+2KHhIUlVjCOD3HeqdFLlRXtGXjdwPJcbxIEl24wBkY/GoJ5kaJIYVYRqc5bqTUFFCikJz
+bCiiiqICiiigAooooAKKKKACiiigAooooAKKKKACiiigAre0z/jwi/H+ZrBre0z/AI8Ivx/maxrf
+CdGG+MtUUUVzHcFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABWZrYOITj
+gbv6Vp0VUZcruROPPGxy9FdRRWvtvI5/q3mcvRXUUUe28g+reZy9FdRRR7byD6t5nL0V1FFHtvIP
+q3mcvRXUUUe28g+reZy9FdRRR7byD6t5nL0V1FFHtvIPq3mcvRXUUUe28g+reZy9FdRRR7byD6t5
+nL0V1FFHtvIPq3mcvRXUUUe28g+reZy9FdRRR7byD6t5nL0V1FFHtvIPq3mcvRXUUUe28g+reZy9
+FdRRR7byD6t5nL0V1FFHtvIPq3mcvRXUUUe28g+reZy9FdRRR7byD6t5nL0V1FFHtvIPq3mcvW/p
+oIsIsjHX+ZqzRUzqcytY0p0eR3uFFFFZG4UUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFA
+BRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAF
+FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUU
+UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRR
+QAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFA
+BRRRQAUUUUAFFFFABRRRQB//2Q==
+			</helperscreenshot>
+		</keysequenceitem>
+		<keysequenceitem
+		KeySequence=":&quot;{RShiftKey up}-85{RShiftKey down}&quot;{RShiftKey up}{RShiftKey up}"
+		duration="80ms"
+		enabled="False"
+		optional="False"
+		presstime="20ms"
+		searchpropertyid="101ae2b6-ed62-43ca-858e-d49a131b4962">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="506e987f-bf90-4a88-a4f0-1c46d045cc9a"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, inputtag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="True"
+				index="1"
+				prefcap="inputtag"
+				rect="654,588,294,30"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						ng-valid md-input ng-not-empty ng-dirty ng-valid-parse ng-touched
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="id"
+					type="System.String">
+						input_5
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						md-input ng-dirty ng-not-empty ng-touched ng-valid ng-valid-parse
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						input
+					</attribute>
+					<attribute
+					name="tagvalue"
+					type="System.String">
+						{&quot;ifs20&quot;:&quot;1&quot;,&quot;ecs2&quot;}
+					</attribute>
+					<attribute
+					name="autofocus"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="checked"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="disabled"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="height"
+					type="System.String">
+						0
+					</attribute>
+					<attribute
+					name="multiple"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="required"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="size"
+					type="System.String">
+						20
+					</attribute>
+					<attribute
+					name="step"
+					type="System.String">
+						any
+					</attribute>
+					<attribute
+					name="type"
+					type="System.String">
+						text
+					</attribute>
+					<attribute
+					name="value"
+					type="System.String">
+						{&quot;ifs20&quot;:&quot;1&quot;,&quot;ecs2&quot;}
+					</attribute>
+					<attribute
+					name="width"
+					type="System.String">
+						0
+					</attribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="aria-invalid"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="aria-label"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-change"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-model"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-model-options"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-style"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="style"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+				</element>
+				<path>
+					/dom[@domain='3.127.177.145:8082']//input[@type='text']
+				</path>
+			</info>
+		</keysequenceitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="23;12"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="7b3a1f32-3b1b-4436-83af-044957ffaa12"
+		sx="806"
+		sy="681"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="5f914945-fa6a-452a-a131-12c20aeadd51"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, spantag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="1"
+				prefcap="spantag"
+				rect="783,669,36,19"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						ng-binding ng-scope
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+						Send
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						ng-binding ng-scope
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						span
+					</attribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-bind-html"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+				</element>
+				<path>
+					/dom[@domain='3.127.177.145:8082']//span[@innertext='Send']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="8c776de7-1bd0-47a8-a046-9556c349985a">
+				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
+UAFFFFABRRRQAUUUUAf/2Q==
+			</helperscreenshot>
+		</mouseitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="76;12"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="34a789f3-ca7c-4c0c-9178-1e777b3dccb4"
+		sx="730"
+		sy="600"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="506e987f-bf90-4a88-a4f0-1c46d045cc9a"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, inputtag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="1"
+				prefcap="inputtag"
+				rect="654,588,294,30"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						ng-valid md-input ng-not-empty ng-dirty ng-valid-parse ng-touched
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="id"
+					type="System.String">
+						input_1
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						md-input ng-dirty ng-not-empty ng-touched ng-valid ng-valid-parse
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						input
+					</attribute>
+					<attribute
+					name="tagvalue"
+					type="System.String">
+						{&quot;ifs20&quot;:&quot;1&quot;}
+					</attribute>
+					<attribute
+					name="autofocus"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="checked"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="disabled"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="height"
+					type="System.String">
+						0
+					</attribute>
+					<attribute
+					name="multiple"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="required"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="size"
+					type="System.String">
+						20
+					</attribute>
+					<attribute
+					name="step"
+					type="System.String">
+						any
+					</attribute>
+					<attribute
+					name="type"
+					type="System.String">
+						text
+					</attribute>
+					<attribute
+					name="value"
+					type="System.String">
+						{&quot;ifs20&quot;:&quot;1&quot;}
+					</attribute>
+					<attribute
+					name="width"
+					type="System.String">
+						0
+					</attribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="aria-invalid"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="aria-label"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-change"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-model"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-model-options"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-style"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="style"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+				</element>
+				<path>
+					/dom[@domain='3.127.177.145:8082']//input[@type='text']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="d3b0e6ab-980f-4c05-b4a6-ac156ddee1c2">
+				/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCAB6AVIDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDo6Wkp
+aAECKAOB+VG1f7o/KlooATav90flRtX+6PypaKAE2r/dH5UbV/uj8qWigBNq/wB0flRtX+6PypaK
+AE2r/dH5UbV/uj8qWigBAi88D8qNq/3R+VLRQAm1f7o/Kjav90flS0UAJtX+6Pyo2r/dH5UtFACb
+V/uj8qNq/wB0flS0UAJtX+6Pyo2r/dH5UtFACbV/uj8qNq/3R+VLRQAm1f7o/Kjav90flS0UAJtH
+YAfhS0UUAFFFFABRRRQAUUUUAFFFFABRRRQAHpTdvvTqKAG7felpaSgAooooAKWkpaACiiigAooo
+oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiig
+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
+zXL11FZ1IKNrG9Go53uFFFFZG5//2Q==
+			</helperscreenshot>
+		</mouseitem>
+		<keysequenceitem
+		KeySequence=",{RShiftKey down}&quot;{RShiftKey up}ecs2{RShiftKey down}&quot;{RShiftKey up}{RShiftKey down}:{RShiftKey up}{RShiftKey down}&quot;{RShiftKey up}-85{RShiftKey down}&quot;{RShiftKey up}"
+		duration="120ms"
+		enabled="True"
+		optional="False"
+		presstime="20ms"
+		searchpropertyid="9da929c5-826f-497a-a3ad-36d9adc3a4a8">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="506e987f-bf90-4a88-a4f0-1c46d045cc9a"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, inputtag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="1"
+				prefcap="inputtag"
+				rect="654,588,294,30"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						ng-valid md-input ng-not-empty ng-dirty ng-valid-parse ng-touched
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="id"
+					type="System.String">
+						input_1
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						md-input ng-dirty ng-not-empty ng-touched ng-valid ng-valid-parse
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						input
+					</attribute>
+					<attribute
+					name="tagvalue"
+					type="System.String">
+						{&quot;ifs20&quot;:&quot;1&quot;}
+					</attribute>
+					<attribute
+					name="autofocus"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="checked"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="disabled"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="height"
+					type="System.String">
+						0
+					</attribute>
+					<attribute
+					name="multiple"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="required"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="size"
+					type="System.String">
+						20
+					</attribute>
+					<attribute
+					name="step"
+					type="System.String">
+						any
+					</attribute>
+					<attribute
+					name="type"
+					type="System.String">
+						text
+					</attribute>
+					<attribute
+					name="value"
+					type="System.String">
+						{&quot;ifs20&quot;:&quot;1&quot;}
+					</attribute>
+					<attribute
+					name="width"
+					type="System.String">
+						0
+					</attribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="aria-invalid"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="aria-label"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-change"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-model"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-model-options"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-style"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="style"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+				</element>
+				<path>
+					/dom[@domain='3.127.177.145:8082']//input[@type='text']
+				</path>
+			</info>
+		</keysequenceitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="23;9"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="07310f01-28a1-450b-86f3-9bc326c007e3"
+		sx="806"
+		sy="678"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="5f914945-fa6a-452a-a131-12c20aeadd51"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, spantag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="1"
+				prefcap="spantag"
+				rect="783,669,36,19"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						ng-binding ng-scope
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+						Send
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						ng-binding ng-scope
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						span
+					</attribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="ng-bind-html"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+				</element>
+				<path>
+					/dom[@domain='3.127.177.145:8082']//span[@innertext='Send']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="45d64817-b3cf-4502-ba7d-8933a7c11119">
+				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
+UUAFFFFABRRRQAUUUUAFFFFAH//Z
+			</helperscreenshot>
+		</mouseitem>
+		<validationitem
+		action="AttributeEqual"
+		enabled="True"
+		optional="True"
+		searchpropertyid="9a67a57f-6d0d-4e60-b95b-387b345e63b9">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="1438a1ef-f684-4916-8c4c-88fe9eb90743"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="16,274,343,22"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						Weak Wifi connection detected.
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						119782960
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='Weak Wifi connection detected.']/container[@accessibilitylabel='Weak Wifi connection detected.']/container[@accessibilitylabel='Weak Wifi connection detected.']
+				</path>
+			</info>
+			<matchname>
+				AccessibilityLabel
+			</matchname>
+			<matchvalue>
+				Weak Wifi connection detected.
+			</matchvalue>
+		</validationitem>
+		<touchrecorditem
+		duration="300ms"
+		elementlocation="Center"
+		enabled="True"
+		fingerid="0"
+		isremote="False"
+		longtouchduration="1000ms"
+		moveduration="100ms"
+		optional="False"
+		screenshotname=""
+		searchpropertyid="48c7c06a-0a48-42d4-8c18-7737a7d48539"
+		sx="0"
+		sy="0"
+		touchduration="100ms"
+		touchtype="Touch"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="1438a1ef-f684-4916-8c4c-88fe9eb90743"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="16,274,343,22"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						Weak Wifi connection detected.
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						119782960
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='Weak Wifi connection detected.']/container[@accessibilitylabel='Weak Wifi connection detected.']/container[@accessibilitylabel='Weak Wifi connection detected.']
+				</path>
+			</info>
+		</touchrecorditem>
+		<validationitem
+		action="AttributeEqual"
+		enabled="True"
+		optional="True"
+		searchpropertyid="96e0b6c8-99e3-4786-a890-55cba04c2956">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="82365999-4417-4bd7-9429-8b74666bc77e"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="32,186,305,39"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						alertImage alertDesc
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						120082816
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='alertImage alertDesc alertImage alertDesc']/container[1]/container[@accessibilitylabel='alertImage alertDesc']
+				</path>
+			</info>
+			<matchname>
+				AccessibilityLabel
+			</matchname>
+			<matchvalue>
+				alertImage alertDesc
+			</matchvalue>
+		</validationitem>
+		<touchrecorditem
+		duration="300ms"
+		elementlocation="Center"
+		enabled="True"
+		fingerid="0"
+		isremote="False"
+		longtouchduration="1000ms"
+		moveduration="100ms"
+		optional="False"
+		screenshotname=""
+		searchpropertyid="8a7c0fbb-5259-46ae-a73b-be89e5238ef0"
+		sx="0"
+		sy="0"
+		touchduration="100ms"
+		touchtype="Touch"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="82365999-4417-4bd7-9429-8b74666bc77e"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="32,186,305,39"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						alertImage alertDesc
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						120082816
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='alertImage alertDesc alertImage alertDesc']/container[1]/container[@accessibilitylabel='alertImage alertDesc']
+				</path>
+			</info>
+		</touchrecorditem>
+		<explicitdelayitem
+		duration="3000ms"
+		enabled="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</explicitdelayitem>
+		<validationitem
+		action="AttributeEqual"
+		enabled="True"
+		optional="True"
+		searchpropertyid="c3858905-0d86-408c-b183-df33f4d407cc">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="0a222564-fa38-4d7e-a80b-7ec24b854b14"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="23,89,329,72"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						Weak Wi-Fi connection
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTTextView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						485417280
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='Weak Wi-Fi connection']
+				</path>
+			</info>
+			<matchname>
+				AccessibilityLabel
+			</matchname>
+			<matchvalue>
+				Weak Wi-Fi connection
+			</matchvalue>
+		</validationitem>
+		<validationitem
+		action="AttributeEqual"
+		enabled="True"
+		optional="True"
+		searchpropertyid="9ff0115d-ef0a-4636-b549-5d05c1395752">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="1a35b3d8-fb9b-4a3f-ba10-6800793e8a19"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="23,175,329,64"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						Your IntelliSyncqaalert Wifi connection is weak. Consider placing your IntelliSyncqaalert closer to your router or adding a Wifi range extender between your home router and the IntelliSyncqaalert.
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTTextView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						485480816
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='Your IntelliSyncqaalert Wifi connection is weak. Consider placing your IntelliSyncqaalert closer to your router or adding a Wifi range extender between your home router and the IntelliSyncqaalert.']/container[@accessibilitylabel='Your IntelliSyncqaalert Wifi connection is weak. Consider placing your IntelliSyncqaalert closer to your router or adding a Wifi range extender between your home router and the IntelliSyncqaalert.']
+				</path>
+			</info>
+			<matchname>
+				AccessibilityLabel
+			</matchname>
+			<matchvalue>
+				Your IntelliSyncqaalert Wifi connection is weak. Consider placing your IntelliSyncqaalert closer to your router or adding a Wifi range extender between your home router and the IntelliSyncqaalert.
+			</matchvalue>
+		</validationitem>
+		<touchrecorditem
+		duration="300ms"
+		elementlocation="Center"
+		enabled="True"
+		fingerid="0"
+		isremote="False"
+		longtouchduration="1000ms"
+		moveduration="100ms"
+		optional="False"
+		screenshotname=""
+		searchpropertyid="641797c5-d5a3-4c74-a82c-a8e875b12b96"
+		sx="0"
+		sy="0"
+		touchduration="100ms"
+		touchtype="Touch"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="d460f5ef-5192-4061-9d9b-be05335ae864"
+			sourcename="RepositoryEditor">
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='assets/src/Common_Feature/Images/alertTab@2x.png']
+				</path>
+			</info>
+		</touchrecorditem>
+		<explicitdelayitem
+		duration="3000ms"
+		enabled="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</explicitdelayitem>
+		<validationitem
+		action="AttributeEqual"
+		enabled="True"
+		optional="True"
+		searchpropertyid="cf890bcc-bbce-46db-b07d-ef520a6c8f25">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="ef1b6652-91c8-4979-815a-aa5f8a616298"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="1"
+				prefcap="container"
+				rect="101,191,230,36"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						Weak Wifi connection detected. Check your system.
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTTextView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						119925376
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='Weak Wifi connection detected. Check your system.']
+				</path>
+			</info>
+			<matchname>
+				AccessibilityLabel
+			</matchname>
+			<matchvalue>
+				Weak Wifi connection detected. Check your system.
+			</matchvalue>
+		</validationitem>
+		<validationitem
+		action="AttributeEqual"
+		enabled="True"
+		optional="True"
+		searchpropertyid="d2b56d17-86be-4345-83cd-328985d7294c">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="1753e045-d531-4f04-8685-36c97a778740"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="False"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="279,166,16,14"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTUIImageViewAnimated
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						119643984
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='Low']/container[2]/container[@caption='']
+				</path>
+			</info>
+			<matchname>
+				PlatformClass
+			</matchname>
+			<matchvalue>
+				RCTUIImageViewAnimated
+			</matchvalue>
+		</validationitem>
+		<validationitem
+		action="AttributeEqual"
+		enabled="True"
+		optional="True"
+		searchpropertyid="3c7cffc5-2258-4b54-bc26-30551f2af789">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="fc30e6f2-91c9-4e2a-a81a-83777e4868b3"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="1"
+				prefcap="container"
+				rect="279,165,51,17"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						Low
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						120123248
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='Low']
+				</path>
+			</info>
+			<matchname>
+				AccessibilityLabel
+			</matchname>
+			<matchvalue>
+				Low
+			</matchvalue>
+		</validationitem>
+		<loggingrecorditem
+		action="Screenshot"
+		category="User"
+		enabled="True"
+		message="ALERTSCREEN"
+		optional="True"
+		reportlevel="Info;20"
+		searchpropertyid="f3b84017-e7d8-40cd-895c-3d024315ed98">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="66a385dd-9d40-4771-9a0c-5d8297a54003"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="0,0,375,618"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						Alerts Delete DEVICE_ALARM Low Weak Wifi connection detected. Check your system. Jan 12,2021 Delete DEVICE_ALARM Medium Your Intelliflo Pump has reported a Priming Failure Alarm Jan 12,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Dec 30,2020 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Dec 30,2020 Delete GENERAL Critical IntelliFlo 3 - Removed from your account Dec 24,2020 Delete GENERAL Critical ESC1- Remote monitoring service for IntelliSync stopped by Pool Mock3; try to request another professional. Dec 22,2020 Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 3 pages Horizontal scroll bar, 1 page Alerts Recent
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						482175024
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='Alerts Delete DEVICE_ALARM Low Weak Wifi connection detected. Check your system. Jan 12,2021 Delete DEVICE_ALARM Medium Your Intelliflo Pump has reported a Priming Failure Alarm Jan 12,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Dec 30,2020 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Dec 30,2020 Delete GENERAL Critical IntelliFlo 3 - Removed from your account Dec 24,2020 Delete GENERAL Critical ESC1- Remote monitoring service for IntelliSync stopped by Pool Mock3; try to request another professional. Dec 22,2020 Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 3 pages Horizontal scroll bar, 1 page Alerts Recent']/container[@accessibilitylabel='Alerts Delete DEVICE_ALARM Low Weak Wifi connection detected. Check your system. Jan 12,2021 Delete DEVICE_ALARM Medium Your Intelliflo Pump has reported a Priming Failure Alarm Jan 12,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Dec 30,2020 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Dec 30,2020 Delete GENERAL Critical IntelliFlo 3 - Removed from your account Dec 24,2020 Delete GENERAL Critical ESC1- Remote monitoring service for IntelliSync stopped by Pool Mock3; try to request another professional. Dec 22,2020 Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 3 pages Horizontal scroll bar, 1 page Alerts Recent']/container[@accessibilitylabel='Alerts Delete DEVICE_ALARM Low Weak Wifi connection detected. Check your system. Jan 12,2021 Delete DEVICE_ALARM Medium Your Intelliflo Pump has reported a Priming Failure Alarm Jan 12,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Dec 30,2020 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Dec 30,2020 Delete GENERAL Critical IntelliFlo 3 - Removed from your account Dec 24,2020 Delete GENERAL Critical ESC1- Remote monitoring service for IntelliSync stopped by Pool Mock3; try to request another professional. Dec 22,2020 Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 3 pages Horizontal scroll bar, 1 page Alerts Recent']/container[@accessibilitylabel='Alerts Delete DEVICE_ALARM Low Weak Wifi connection detected. Check your system. Jan 12,2021 Delete DEVICE_ALARM Medium Your Intelliflo Pump has reported a Priming Failure Alarm Jan 12,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Dec 30,2020 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Dec 30,2020 Delete GENERAL Critical IntelliFlo 3 - Removed from your account Dec 24,2020 Delete GENERAL Critical ESC1- Remote monitoring service for IntelliSync stopped by Pool Mock3; try to request another professional. Dec 22,2020 Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 3 pages Horizontal scroll bar, 1 page Alerts Recent']/container[@accessibilitylabel='Alerts Delete DEVICE_ALARM Low Weak Wifi connection detected. Check your system. Jan 12,2021 Delete DEVICE_ALARM Medium Your Intelliflo Pump has reported a Priming Failure Alarm Jan 12,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Dec 30,2020 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Dec 30,2020 Delete GENERAL Critical IntelliFlo 3 - Removed from your account Dec 24,2020 Delete GENERAL Critical ESC1- Remote monitoring service for IntelliSync stopped by Pool Mock3; try to request another professional. Dec 22,2020 Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 3 pages Horizontal scroll bar, 1 page Alerts Recent']/container[@accessibilitylabel='Alerts Delete DEVICE_ALARM Low Weak Wifi connection detected. Check your system. Jan 12,2021 Delete DEVICE_ALARM Medium Your Intelliflo Pump has reported a Priming Failure Alarm Jan 12,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Dec 30,2020 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Dec 30,2020 Delete GENERAL Critical IntelliFlo 3 - Removed from your account Dec 24,2020 Delete GENERAL Critical ESC1- Remote monitoring service for IntelliSync stopped by Pool Mock3; try to request another professional. Dec 22,2020 Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 3 pages Horizontal scroll bar, 1 page Alerts Recent']/container[@accessibilitylabel='Alerts Delete DEVICE_ALARM Low Weak Wifi connection detected. Check your system. Jan 12,2021 Delete DEVICE_ALARM Medium Your Intelliflo Pump has reported a Priming Failure Alarm Jan 12,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Dec 30,2020 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Dec 30,2020 Delete GENERAL Critical IntelliFlo 3 - Removed from your account Dec 24,2020 Delete GENERAL Critical ESC1- Remote monitoring service for IntelliSync stopped by Pool Mock3; try to request another professional. Dec 22,2020 Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 3 pages Horizontal scroll bar, 1 page Alerts Recent']/container[@accessibilitylabel='Alerts Delete DEVICE_ALARM Low Weak Wifi connection detected. Check your system. Jan 12,2021 Delete DEVICE_ALARM Medium Your Intelliflo Pump has reported a Priming Failure Alarm Jan 12,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Jan 7,2021 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Dec 30,2020 Delete GENERAL Critical ESC1- Remote monitoring request for IntelliSync accepted by Pool Mock3 Dec 30,2020 Delete GENERAL Critical IntelliFlo 3 - Removed from your account Dec 24,2020 Delete GENERAL Critical ESC1- Remote monitoring service for IntelliSync stopped by Pool Mock3; try to request another professional. Dec 22,2020 Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 1 page Horizontal scroll bar, 1 page Vertical scroll bar, 3 pages Horizontal scroll bar, 1 page Alerts Recent']
+				</path>
+			</info>
+		</loggingrecorditem>
+		<touchrecorditem
+		duration="300ms"
+		elementlocation="Center"
+		enabled="True"
+		fingerid="0"
+		isremote="False"
+		longtouchduration="1000ms"
+		moveduration="100ms"
+		optional="False"
+		screenshotname=""
+		searchpropertyid="da064526-62cb-4b29-a61b-a6e3a62d1097"
+		sx="0"
+		sy="0"
+		touchduration="100ms"
+		touchtype="Touch"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="ef1b6652-91c8-4979-815a-aa5f8a616298"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="1"
+				prefcap="container"
+				rect="101,191,230,36"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						Weak Wifi connection detected. Check your system.
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTTextView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						119925376
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='Weak Wifi connection detected. Check your system.']
+				</path>
+			</info>
+		</touchrecorditem>
+		<explicitdelayitem
+		duration="3000ms"
+		enabled="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</explicitdelayitem>
+		<loggingrecorditem
+		action="Screenshot"
+		category="User"
+		enabled="True"
+		message="DeviceDashWeakWifiAlert"
+		optional="True"
+		reportlevel="Info;20"
+		searchpropertyid="ff9160cd-d91f-4b22-b041-8b2ca8a23a5e">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="bfc1a737-f8ea-4a1a-8c04-bbd281f7d187"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="ioselement, mobileuielement"
+				dontcache="True"
+				enabled="True"
+				flavor="mobile"
+				hasfocus="False"
+				index="0"
+				prefcap="container"
+				rect="0,0,375,618"
+				role="container"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="controltag"
+					type="System.Int32">
+						0
+					</attribute>
+					<attribute
+					name="accessibilitylabel"
+					type="System.String">
+						Add a Device Problem Detected 2 Alerts Weak Wifi connection detected. Your Intelliflo Pump has reported a Priming Failure Alarm Vertical scroll bar, 1 page Horizontal scroll bar, 1 page IntelliSyncqaalert UPDATE REQUIRED Water Sensor1 Water Temp:  85 ℉ SUPERFLO MAX VS OFF AIR SENSOR Air Temp:  67 ℉ INTELLIFLO VS PUMP OFF Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page IntelliSyncqaalert alertDetected alertTitle headerContactPro alertImage alertDesc alertImage alertDesc Mode Auto Equipment 1 2 3 4 5 6 HEATER INTELLIFLO VS PUMP Water Sensor1 INTELLICHLOR AIR SENSOR SUPERFLO MAX VS Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page
+					</attribute>
+					<attribute
+					name="platformclass"
+					type="System.String">
+						RCTView
+					</attribute>
+					<attribute
+					name="temporaryelementid"
+					type="System.Int32">
+						118034464
+					</attribute>
+				</element>
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='Add a Device Problem Detected 2 Alerts Weak Wifi connection detected. Your Intelliflo Pump has reported a Priming Failure Alarm Vertical scroll bar, 1 page Horizontal scroll bar, 1 page IntelliSyncqaalert UPDATE REQUIRED Water Sensor1 Water Temp:  85 ℉ SUPERFLO MAX VS OFF AIR SENSOR Air Temp:  67 ℉ INTELLIFLO VS PUMP OFF Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page IntelliSyncqaalert alertDetected alertTitle headerContactPro alertImage alertDesc alertImage alertDesc Mode Auto Equipment 1 2 3 4 5 6 HEATER INTELLIFLO VS PUMP Water Sensor1 INTELLICHLOR AIR SENSOR SUPERFLO MAX VS Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page']/container[@accessibilitylabel='Add a Device Problem Detected 2 Alerts Weak Wifi connection detected. Your Intelliflo Pump has reported a Priming Failure Alarm Vertical scroll bar, 1 page Horizontal scroll bar, 1 page IntelliSyncqaalert UPDATE REQUIRED Water Sensor1 Water Temp:  85 ℉ SUPERFLO MAX VS OFF AIR SENSOR Air Temp:  67 ℉ INTELLIFLO VS PUMP OFF Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page IntelliSyncqaalert alertDetected alertTitle headerContactPro alertImage alertDesc alertImage alertDesc Mode Auto Equipment 1 2 3 4 5 6 HEATER INTELLIFLO VS PUMP Water Sensor1 INTELLICHLOR AIR SENSOR SUPERFLO MAX VS Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page']/container[@accessibilitylabel='Add a Device Problem Detected 2 Alerts Weak Wifi connection detected. Your Intelliflo Pump has reported a Priming Failure Alarm Vertical scroll bar, 1 page Horizontal scroll bar, 1 page IntelliSyncqaalert UPDATE REQUIRED Water Sensor1 Water Temp:  85 ℉ SUPERFLO MAX VS OFF AIR SENSOR Air Temp:  67 ℉ INTELLIFLO VS PUMP OFF Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page IntelliSyncqaalert alertDetected alertTitle headerContactPro alertImage alertDesc alertImage alertDesc Mode Auto Equipment 1 2 3 4 5 6 HEATER INTELLIFLO VS PUMP Water Sensor1 INTELLICHLOR AIR SENSOR SUPERFLO MAX VS Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page']/container[@accessibilitylabel='Add a Device Problem Detected 2 Alerts Weak Wifi connection detected. Your Intelliflo Pump has reported a Priming Failure Alarm Vertical scroll bar, 1 page Horizontal scroll bar, 1 page IntelliSyncqaalert UPDATE REQUIRED Water Sensor1 Water Temp:  85 ℉ SUPERFLO MAX VS OFF AIR SENSOR Air Temp:  67 ℉ INTELLIFLO VS PUMP OFF Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page IntelliSyncqaalert alertDetected alertTitle headerContactPro alertImage alertDesc alertImage alertDesc Mode Auto Equipment 1 2 3 4 5 6 HEATER INTELLIFLO VS PUMP Water Sensor1 INTELLICHLOR AIR SENSOR SUPERFLO MAX VS Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page']/container[@accessibilitylabel='Add a Device Problem Detected 2 Alerts Weak Wifi connection detected. Your Intelliflo Pump has reported a Priming Failure Alarm Vertical scroll bar, 1 page Horizontal scroll bar, 1 page IntelliSyncqaalert UPDATE REQUIRED Water Sensor1 Water Temp:  85 ℉ SUPERFLO MAX VS OFF AIR SENSOR Air Temp:  67 ℉ INTELLIFLO VS PUMP OFF Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page IntelliSyncqaalert alertDetected alertTitle headerContactPro alertImage alertDesc alertImage alertDesc Mode Auto Equipment 1 2 3 4 5 6 HEATER INTELLIFLO VS PUMP Water Sensor1 INTELLICHLOR AIR SENSOR SUPERFLO MAX VS Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page']
+				</path>
+			</info>
+		</loggingrecorditem>
+		<touchrecorditem
+		duration="300ms"
+		elementlocation="Center"
+		enabled="True"
+		fingerid="0"
+		isremote="False"
+		longtouchduration="1000ms"
+		moveduration="100ms"
+		optional="False"
+		screenshotname=""
+		searchpropertyid="938baf4c-e250-44ab-93c5-6c1d9ee3a923"
+		sx="0"
+		sy="0"
+		touchduration="100ms"
+		touchtype="Touch"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="4cc844ae-fae8-4dbf-8bd7-87a25f3038ad"
+			sourcename="RepositoryEditor">
+				<path>
+					/mobileapp[@title='com.pentair.pentairhome']//container[@accessibilitylabel='assets/src/Common_Feature/Images/homeOutline@2x.png']
+				</path>
+			</info>
+		</touchrecorditem>
+		<explicitdelayitem
+		duration="3000ms"
+		enabled="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</explicitdelayitem>
+	</recorditems>
+	<repository
+	id="be028b9c-b21d-4e8e-82ab-8fac1610fc1a"
+	name="MyTest1Repository"
+	relativepath="MyTest1Repository.rxrep">
+		<codegen
+		classname="MyTest1Repository"
+		namespace="MyTest1">
+		</codegen>
+		<rootfolder
+		id="3d9afc2c-fda3-47f2-b673-1f8245e564e4"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Alerts.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
